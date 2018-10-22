@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="bandeiras">
+        <item>@drawable/alemanha</item>
+        <item>@drawable/argentina</item>
+        <item>@drawable/chile</item>
+        <item>@drawable/espanha</item>
+        <item>@drawable/franca</item>
+        <item>@drawable/gana</item>
+        <item>@drawable/grecia</item>
+        <item>@drawable/honduras</item>
+    </array>
+</resources>
